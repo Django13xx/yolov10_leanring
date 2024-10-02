@@ -1,3 +1,7 @@
+# Thanks to AI百晓生!!!
+This project is based on the tutorial below:
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1605877535&bvid=BV1jm421579G&cid=1593642215&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 # yolov10_leanring
 The example usage of YOLO base model. (Default setting and ready for trainning)
 
