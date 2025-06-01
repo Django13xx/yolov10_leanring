@@ -1,0 +1,13 @@
+train: X:\yolov10\y-seal/train/images
+val: X:\yolov10\y-seal/valid/images
+test: X:\yolov10\y-seal/test/images
+
+nc: 1
+names: ['seal_bb']
+
+roboflow:
+  workspace: renjie-yao
+  project: yolov10-seal
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/renjie-yao/yolov10-seal/dataset/1
